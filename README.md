@@ -26,7 +26,7 @@
      ```
 
 4. **Steam Runtimes**:
-   - O Steam Runtimes é um conjunto de bibliotecas e ambientes de tempo de execução usados pelo Steam para garantir a compatibilidade com jogos e aplicativos.
+   - É necessário para funcionar o gamemaker sem ele não irá funcionar.
    - Para instalá-lo:
      - Crie o diretório para o Steam Runtimes:
        ```

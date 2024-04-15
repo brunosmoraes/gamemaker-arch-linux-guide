@@ -2,6 +2,7 @@
    - O `debtap` é uma ferramenta que permite converter pacotes `.deb` (formato usado pelo Debian/Ubuntu) para pacotes Arch Linux.
    - Para instalá-lo, execute:
      ```
+     pamac install yay
      yay -S debtap
      ```
 

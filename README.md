@@ -5,6 +5,10 @@
      pamac install yay
      yay -S debtap
      ```
+   - Dowload do GameMaker-Studio2
+     ```
+     https://gamemaker.io/pt-BR/download
+     ```
 
 2. **Criando o pacote Arch**:
    - Navegue até o diretório onde você baixou o GameMaker Studio.
@@ -12,13 +16,13 @@
      ```
      cd <caminho onde você baixou o GameMaker>
      sudo debtap -u
-     debtap GameMakerStudio2-Beta-23.1.1.329.deb
+     debtap GameMaker-Beta-2024.400.0.532.deb
      ```
 
 3. **Instalando o pacote Arch**:
    - Agora, instale o pacote Arch gerado:
      ```
-     sudo pacman -U gamemakerstudio2-beta-23.1.1.329-1-any.pkg.tar.zst
+     sudo pacman -U gamemaker-beta-2024.400.0.532-1-any.pkg.tar.zst
      ```
 
 4. **Steam Runtimes**:

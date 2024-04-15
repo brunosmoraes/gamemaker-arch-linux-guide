@@ -1,5 +1,3 @@
-Claro! Vou resumir e explicar como funcionam esses passos:
-
 1. **Instalando o `debtap`**:
    - O `debtap` é uma ferramenta que permite converter pacotes `.deb` (formato usado pelo Debian/Ubuntu) para pacotes Arch Linux.
    - Para instalá-lo, execute:
@@ -46,4 +44,3 @@ Claro! Vou resumir e explicar como funcionam esses passos:
      sudo install -m 0755 appimagetool-x86_64.AppImage /usr/local/bin/appimagetool
      ```
 
-Agora você está pronto para usar essas ferramentas! Se tiver mais alguma dúvida ou precisar de ajuda, estou à disposição. 😊
